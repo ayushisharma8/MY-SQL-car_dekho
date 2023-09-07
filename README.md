@@ -1,5 +1,7 @@
 # MY-SQL-car_dekho
+
 Create schema cars;
+
 use cars;
 
 # Read data
